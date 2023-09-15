@@ -1,11 +1,6 @@
 /* This is my first project for making 
   Powerball number generator*/
 
-
-
-
-
-
 package _2023._3Q;
 
 import java.util.*;
